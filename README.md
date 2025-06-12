@@ -1,4 +1,4 @@
-# MongoDB LLM Application
+# NL2MONGO(NATURAL LANGUAGE TO MONGODB) Application
 
 A powerful application that combines MongoDB with Large Language Models (LLM) to enable natural language querying of MongoDB databases. This application allows users to interact with MongoDB databases using natural language, making database operations more intuitive and accessible.
 
