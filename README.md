@@ -115,8 +115,8 @@ The application uses a modular architecture with the following components:
 
 ## License
 
-[Add your license information here]
+MIT License
 
 ## Support
 
-For support and questions, please [add contact information or issue reporting guidelines] 
+For support and questions, please reach out to priyanshijain1628@gmail.com
